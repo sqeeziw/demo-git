@@ -9,4 +9,7 @@ class DemoGitApplication
 fun main(args: Array<String>) {
     runApplication<DemoGitApplication>(*args)
     println("ggvp")
+    println("ggvp")
+    println("ggvp")
+    println("ggvp")
 }
