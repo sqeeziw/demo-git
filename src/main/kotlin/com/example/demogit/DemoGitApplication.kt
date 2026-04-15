@@ -8,4 +8,5 @@ class DemoGitApplication
 
 fun main(args: Array<String>) {
     runApplication<DemoGitApplication>(*args)
+    println("ggvp")
 }
